@@ -19,3 +19,9 @@ Description: A abandoned house in the style of old playstation style games!
 
 Description: A female protagonist, inspired by Mega-Man!
 
+### 4. PSX Style Shotgun
+![image](https://github.com/Mushroom-Ano/BlenderModels/assets/81051693/4a63d45f-c412-4990-930c-0d41da8ca79d)
+
+Description: a shotgun! now in PSX!
+
+
