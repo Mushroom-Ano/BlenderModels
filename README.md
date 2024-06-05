@@ -13,3 +13,9 @@ Description: An arcade machine used in some of my personal games as background!
 ![image](https://github.com/Mushroom-Ano/BlenderModels/assets/81051693/27a023c1-dbaf-4a2d-9658-5dbd528e586f)
 
 Description: A abandoned house in the style of old playstation style games!
+
+### 3. PSX Style Protagonist
+![image](https://github.com/Mushroom-Ano/BlenderModels/assets/81051693/44e15a4b-ed1c-4df7-a993-50c92b3d6876)
+
+Description: A female protagonist, inspired by Mega-Man!
+
